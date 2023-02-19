@@ -16,7 +16,7 @@ class _ChatGptScreenState extends State<ChatGptScreen> {
 
   //initialize openai
   final openAI = OpenAI.instance.build(
-      token: "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",
+      token: "YOUR_TOKEN",
       baseOption: HttpSetup(receiveTimeout: 30000),
       isLogger: true);
 
