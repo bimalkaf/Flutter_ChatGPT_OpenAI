@@ -1,16 +1,6 @@
 # my_chat_gpt
 
-A new Flutter project.
+This project is a simple Chat Bot application using OpenAI Completion API.
+You can signup in OpenAI to get the token and replace "YOUR_TOKEN" in chat_screen.dart file with your token.
+UI:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
